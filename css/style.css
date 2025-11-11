@@ -18,7 +18,7 @@ body {
 
 .hero-section {
 
-    background-image: url(/assets/gradiente-colors.jpg);
+    background-color: #000000;
     background-repeat: no-repeat;
     background-size:100%; /* Um fundo escuro para criar contraste */
 
